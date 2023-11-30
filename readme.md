@@ -4,7 +4,7 @@
  - 更改配色
  - 更改排版布局，使其放松不拥挤
 
-![enter image description here](https://img1.imgtp.com/2023/10/09/SzfkS6q5.png)
+![enter image description here](Snipaste_2023-10-09_17-43-04.png)
 
 ---
 ### BUG解决
